@@ -1,4 +1,4 @@
 JavaUtil
 ========
 
-some java common util
+some java common utils
